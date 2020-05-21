@@ -83,6 +83,9 @@ function createMap(earthquakes) {
   }).addTo(map);
 
   // Create Legend
+  // ------------
+  // Source for creating legends: https://gis.stackexchange.com/questions/193161/add-legend-to-leaflet-map
+  // ------------
   var legendLayer = L.control({position: 'bottomright'});
 
   legendLayer.onAdd = function() {
