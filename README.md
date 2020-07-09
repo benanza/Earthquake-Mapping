@@ -21,4 +21,5 @@
   - Added layer controls to our map
   
   Example Site Screenshot:
+  
   ![Site Screenshot](https://github.com/benanza/Earthquake-Mapping/blob/master/Site%20Screen%20Shot.png?raw=true)
