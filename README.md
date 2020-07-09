@@ -1,6 +1,7 @@
 # Earthquake Mapping
 
 *To view the site, you must first obtain an API key by setting up a free account at mapbox.com and creating an Access Token*
+
 *Apply this API key anywhere the code in the logic.js file says "API_KEY"*
 
 #### Project Premise: "The USGS is interested in building a new set of tools that will allow them visualize their earthquake data. They collect a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations (and hopefully secure more funding..) on issues facing our planet."
